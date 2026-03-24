@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @SamridhiParihar
-- 👀 I’m interested in technology and it's application
-- 🌱 I’m currently learning Machine Learning
--  I'm passionate ML enthusiast.
 
 
 <!---
